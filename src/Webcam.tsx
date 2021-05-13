@@ -15,7 +15,7 @@ export const Webcam = ({
   useWindowResize(() => {
     setWidth(window.innerWidth);
   });
-  const height = width * 9/16;
+  const height = width * 2/3;
   const url = createWebcamUrl(cameraNum, width, height);
   console.log({cameraNum, isVisible});
   return (
