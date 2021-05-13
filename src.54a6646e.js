@@ -141,4 +141,4 @@ var e=require("process");Object.defineProperty(exports,"__esModule",{value:!0}),
 },{"react":"n8MK","./Webcam":"s66T","./App.scss":"m1r2"}],"zo2T":[function(require,module,exports) {
 "use strict";var e=this&&this.__importDefault||function(e){return e&&e.__esModule?e:{default:e}};Object.defineProperty(exports,"__esModule",{value:!0});var r=e(require("react")),t=e(require("react-dom")),u=require("./App");t.default.render(r.default.createElement(u.App,null),document.querySelector("#app"));
 },{"react":"n8MK","react-dom":"NKHc","./App":"NHn6"}]},{},["zo2T"], null)
-//# sourceMappingURL=/src.173aec2b.js.map
+//# sourceMappingURL=/src.54a6646e.js.map

@@ -1,0 +1,1 @@
+{"version":3,"sources":["Webcam.scss","App.scss"],"names":[],"mappings":"AAAA,QACE,WAAA,CACA,WAAA,CACA,eAAA,CACA,oBCJF,EACE,QAAA,CACA","file":"src.490c78b1.css","sourceRoot":"src","sourcesContent":[".webcam {\n  width: 100vw;\n  border: none;\n  overflow: hidden;\n  pointer-events: none;\n}\n","* {\n  margin: 0;\n  padding: 0;\n}\n"]}
