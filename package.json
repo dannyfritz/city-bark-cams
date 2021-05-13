@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:dev": "parcel ./src/index.html",
-    "build": "parcel build ./src/index.html"
+    "build": "parcel build ./src/index.html --out-dir . --public-url /city-bark-cams/",
+    "clean": "rm *.css *.css.map *.js *.js.map index.html",
+    "start:dev": "parcel ./src/index.html"
   },
   "keywords": [],
   "author": "",
